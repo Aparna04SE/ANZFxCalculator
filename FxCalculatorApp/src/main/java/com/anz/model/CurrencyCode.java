@@ -8,6 +8,7 @@ import java.util.Set;
 import com.anz.util.Arguments;
 
 /**
+ * New currency
  * Represents the model for CurrencyCode
  * 
  * @version
